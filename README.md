@@ -4,7 +4,7 @@ Welcome to my first responsive frontend development project! **Britlex** is a mo
 
 This project represents a major milestone in my learning journey, built with the assistance of an AI mentor to accelerate my technical understanding and problem-solving skills.
 
-🔗 **[Live Demo Link]([https://develop37643.github.io/britlex-language-school/)**
+🔗 **[Live Demo Link]([https://develop37643.github.io/britlex-language-school/])**
 
 ---
 
