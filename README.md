@@ -52,5 +52,15 @@ This is only the beginning. To transition into a job-ready Frontend Developer, m
 
 ---
 
-## 👥 How to Run This Project Locally
+## 📬 Contact Me
 
+If you are a recruiter, a company representative, or just want to chat about frontend development, feel free to reach out!
+
+*   **Email:** abay.webdev@gmail.com
+
+---
+
+## 👥 How to Run This Project Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Develop37643/britlex-language-school.git
